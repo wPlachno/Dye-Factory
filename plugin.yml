@@ -1,0 +1,10 @@
+name: DyeFactory
+main: me.wPlachno.DyeFactory.DyeFactory
+version: 0.0.1
+description:
+    A plugin that adds dye reproduction.
+commands:
+    DyeFactory:
+        description: This is the DyeFactory help command.
+        usage: |
+            /<command>
